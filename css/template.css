@@ -57039,3 +57039,7 @@ body.single-product.lagre_gallery .breadcrumb-noheading {
 .footer-logo{
   width: 305px !important;
 }
+.mp{
+  margin-top: 10px; 
+  padding: 2px;
+}
