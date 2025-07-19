@@ -45857,7 +45857,7 @@ ul.woocommerce-product-subcategories li .count-product {
 .single-product .bwp-single-info .product_meta .posted_in a:hover,
 .single-product .bwp-single-info .product_meta .sku_wrapper a:hover,
 .single-product .bwp-single-info .product_meta .tagged_as a:hover {
-  color: var(--hover-color-80, rgba(0, 0, 0, 0.8));
+  /* color: var(--hover-color-80, rgba(0, 0, 0, 0.8)); */
 }
 
 .quickview-container .bwp-single-info .image-thumbnail .slick-list,
@@ -57042,4 +57042,26 @@ body.single-product.lagre_gallery .breadcrumb-noheading {
 .mp{
   margin-top: 10px; 
   padding: 2px;
+}
+.Flavors-heading{
+  color: #BFA583;
+  margin-top: 0px !important;
+  letter-spacing: 1px;
+}
+.Flouer-btn{
+  background-color: black ;
+  border: #BFA583 solid 2px;
+  border-radius: 5px !important;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  padding: 5px;
+
+}
+.Flouer-btn a{
+  color:white;
+  padding: 10px 20px 10px 20px;
+}
+.selected{
+   background-color: #BFA583 !important;
+ 
 }
